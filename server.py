@@ -7,8 +7,7 @@ api = Api(app)
 
 class Events(Resource):
     def get(self, city):
-        return jsonify(events[city]), {'done': 'done'}
-
+        return jsonify(events[city])
 
 api.add_resource(Events, '/events/<string:city>')
 

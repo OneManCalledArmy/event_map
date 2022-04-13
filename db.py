@@ -1,4 +1,4 @@
-events = {'warszawa': {'event': 'koncert',
+events = {'warszawa': {'event': 'modlitwa',
                      'lat': 52.2297,
                      'long': 21.0122},
           'poznan': {'event': 'chlanie',
