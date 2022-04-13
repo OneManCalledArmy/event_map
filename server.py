@@ -1,6 +1,6 @@
 from flask import Flask, jsonify
 from flask_restful import Api, Resource
-from db import events
+from db import *
 
 app = Flask(__name__)
 api = Api(app)
