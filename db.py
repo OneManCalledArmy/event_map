@@ -1,11 +1,7 @@
-events = {'warsaw': {'event': 'koncert',
-                     'localization':
-                         {'long': 'xxxx',
-                          'lat': 'yyyy'}
-                     },
-          'poznan': {'event': 'stypa',
-                     'localization':
-                         {'long': 'xxxx',
-                          'lat': 'yyyy'}
-                    }
+events = {'warszawa': {'event': 'koncert',
+                     'lat': 52.2297,
+                     'long': 21.0122},
+          'poznan': {'event': 'chlanie',
+                     'lat': 52.4064,
+                     'long': 16.9252}
           }
