@@ -4,7 +4,7 @@ BASE = 'http://127.0.0.1:5000'
 EVENT = '/events/'
 WARSZAWA = 'warszawa'
 POZNAN = 'poznan'
-KEY = '&key=AIzaSyBJJ5wQJeLX1Wi0ep27zCJA_bo2GaL1VGg'
+KEY = 'xxxx'
 GGL_MAPS = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json?location='
 
 response_warszawa = requests.get(BASE + EVENT + WARSZAWA)
