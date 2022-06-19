@@ -1,6 +1,5 @@
 from flask import Flask, jsonify
 from flask_restful import Api, Resource
-# from db import *
 import random
 import json
 
