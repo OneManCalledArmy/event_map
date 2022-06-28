@@ -3,6 +3,8 @@ import json
 import pprint
 import random
 
+print("first derp here")
+
 BASE = 'http://127.0.0.1:5000'
 EVENT = '/events/'
 WARSZAWA = 'warszawa'
