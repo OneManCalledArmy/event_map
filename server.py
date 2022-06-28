@@ -3,6 +3,9 @@ from flask_restful import Api, Resource
 import random
 import json
 
+print("test1")
+print("test2")
+
 app = Flask(__name__)
 api = Api(app)
 
